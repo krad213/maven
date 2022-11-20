@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>su.kore</groupId>
+  <artifactId>pluck</artifactId>
+  <versioning>
+    <latest>1.0.0-RC2-krd</latest>
+    <release>1.0.0-RC2-krd</release>
+    <versions>
+      <version>1.0.0-RC2-krd</version>
+    </versions>
+    <lastUpdated>20221120225405</lastUpdated>
+  </versioning>
+</metadata>
